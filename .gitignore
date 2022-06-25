@@ -1,0 +1,4 @@
+run
+*.o
+parser.tab*
+scanner.[ch]
